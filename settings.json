@@ -1,0 +1,22 @@
+{
+  "poll_seconds": 12,
+  "bankroll": 500.0,
+  "stake_usd": 15.0,
+  "max_exposure": 40.0,
+  "max_daily_loss": 35.0,
+  "min_seconds": 45,
+  "max_seconds": 650,
+  "min_price": 0.16,
+  "max_price": 0.84,
+  "minimum_edge": 0.055,
+  "minimum_votes": 6,
+  "minimum_confidence": 0.60,
+  "max_spread": 0.10,
+  "max_trades_day": 12,
+  "tp_cents": 14,
+  "sl_cents": 12,
+  "max_hold_seconds": 480,
+  "slippage_cents": 1.0,
+  "futures_enabled": true,
+  "signal_cooldown": 120
+}
